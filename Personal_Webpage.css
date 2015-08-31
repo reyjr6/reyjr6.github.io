@@ -25,7 +25,7 @@ body {
 }
 
 /*TILT*/
-.tilt {
+.tilt {   /*makes picture tilt*/
   -webkit-transition: all 0.5s ease;
      -moz-transition: all 0.5s ease;
        -o-transition: all 0.5s ease;
@@ -33,7 +33,7 @@ body {
           transition: all 0.5s ease;
 }
  
-.tilt:hover {
+.tilt:hover {   /*tilts only when mouse hovers over*/
   -webkit-transform: rotate(-10deg);
      -moz-transform: rotate(-10deg);
        -o-transform: rotate(-10deg);
@@ -41,7 +41,7 @@ body {
           transform: rotate(-10deg);
 }
 
-.bs-docs-header {
+.bs-docs-header {     /*this creates the color transition from gray to red*/
     position: relative;
     padding: 30px 0;
     color: white;
@@ -56,11 +56,11 @@ body {
     background-repeat: repeat-x;
 }
 
-.btn-primary {
+.btn-primary {  /*change the button colors*/
   background-color: black;
 }
 
-#infoContainer{
+#infoContainer{ 
   background-color: silver;
   border: 10px solid #57716F; 
 }
