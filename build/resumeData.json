@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name":"Reynaldo Olivo",
+    "occupation":"Software Engineer",
+    "description":"full stack background and a workflow driven focus",
+    "image":"profile-pic.jpg",
+    "bio":"I'm a Venezuelan born, South Florida raised - computer scientist. I have always had an interest in technology, and how we can use data, visuals, and user friendly experiences to create a better, smarter world for ourselves. I'm also a weather freak, sports fanatic, and an avid traveler. I'm fluent in English and Spanish, and am working on German. If you are looking for my technical experience, just take a look at my resume below! Fun fact: The photo above is from my hometown of La Guaira, Venezuela",
+    "contactmessage":"If you have any questions about me or what I do, feel free to fill out the form below and we can schedule a time to chat!",
+    "email": "reyjr6@gmail.com",
+    "phone": "954-662-6762",
+    "address":{
+      "city":"New York",
+      "state":"New York"
+    },
+    "website": "http://www.reyjr6.gihub.io",
+    "resumedownload":"https://docs.google.com/document/d/1NBEr-WzKS3hn-29tE_ehyAD5G7C46ktX3lEA6LJ8XN4/edit?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/reyjr6",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/reyolivo6/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/reyolivo",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/reyjr6",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Full stack developer having 3+ of years of experience, specializing in Java and Javascript",
+    "education":[
+      {
+        "school":"University of Florida",
+        "degree":"Bachelor of Science in Computer Science",
+        "graduated":"May, 2016",
+        "description":"Part of the Society of Hispanic Professional Engineers, Chi Phi Fraternity, and Graduated with Honors"
+      },
+      {
+        "school":"CourseEra - University of Michigan",
+        "degree":"Certificate - Applied Data Science using Python",
+        "graduated":"In Progress (3/5 complete)",
+        "description":"Learned about Data Science, Data Visualization, and Machine Learning"
+      }
+    ],
+    "work":[
+      {
+        "company":"Goldman Sachs & Co.",
+        "title":"Technology Analyst - Workflow Champion",
+        "years":"July 2016 - Present",
+        "description":"'Workflow Champion' for a global team of 60+ developers. Provided guidance and technical architecture design for colleagues of all levels that are creating automated workflows, specifically, Camunda workflows such as a notification/task based systems for our stakeholders to be able to action on regulatory and reporting matters. Also, developed a dynamic financial report capable of generating its own columns, pivots (with data driven sorting), and other UI configurations based on the returned JSONs from HTTP API calls. The UI layer was developed in ReactJS with Redux and the backend services were developed in an in-house cloud based modelling language."
+      },
+      {
+        "company":"Goldman Sachs & Co.",
+        "title":"Technology Summer Intern",
+        "years":"May 2015 - August 2015",
+        "description":"Put into production a tool that facilitates the firm's products organization and classification - Able to parse through various different Excel files from numerous business units, perform attribute validation, and produce XML code with the format that the system can then consume into the database. Performed testing with millions of products and validated the automatically generated XML to ensure it did not break any critical rules."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"React.js",
+        "level":"75%"
+      },
+      {
+        "name":"SQL",
+        "level":"65%"
+      },
+      {
+        "name":"BPMN (Camunda)",
+        "level":"100%"
+      },
+      {
+        "name":"HTML5 / CSS",
+        "level":"60%"
+      },
+      {
+        "name":"Python / Pandas",
+        "level":"40%"
+      },
+      {
+        "name":"AngularJS",
+        "level":"40%"
+      },
+      {
+        "name":"Objective-C / Xcode",
+        "level":"25%"
+      },
+      {
+        "name":"No-SQL",
+        "level":"30%"
+      },
+      {
+        "name":"Continents Travelled",
+        "level":"57%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Personal Website",
+        "category":"My personal website with professional and personal insights",
+        "image":"personal-website.jpg",
+        "url":"http://reyjr6.github.io"
+      },
+      {
+        "title":"SOL Property Management",
+        "category":"(offline now) A multilingual property management website",
+        "image":"sol-property-management.jpg"
+      },
+      {
+        "title":"2016 Senior Project",
+        "category":"Senior Project documentation",
+        "image":"senior-project.jpg",
+        "url":"https://docs.google.com/document/d/1YQR5ExQESnFhsR5hnktwrIhZw13C5aQ6AHUezItgDO0/edit?usp=sharing"
+      }
+    ]
+  },
+  "quotes":{
+    "quotes":[
+      {
+        "text":"The biggest risk is not taking any risk... In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
+        "user":"Mark Zuckerberg"
+      },
+      {
+        "text":"One, remember to look up at the stars and not down at your feet. Two, never give up work. Work gives you meaning and purpose and life is empty without it. Three, if you are lucky enough to find love, remember it is there and don't throw it away.",
+        "user":"Stephen Hawking"
+      },
+      {
+        "text":"I've struggled in my life. I've had hard times, but I kept pressing on.",
+        "user":"Dwyane Wade (Miami Heat)"
+      }
+    ]
+  }
+}
