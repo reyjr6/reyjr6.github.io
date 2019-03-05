@@ -45,12 +45,6 @@
         "degree":"Bachelor of Science in Computer Science",
         "graduated":"May, 2016",
         "description":"Part of the Society of Hispanic Professional Engineers, Chi Phi Fraternity, and Graduated with Honors"
-      },
-      {
-        "school":"CourseEra - University of Michigan",
-        "degree":"Certificate - Applied Data Science using Python",
-        "graduated":"In Progress (3/5 complete)",
-        "description":"Learned about Data Science, Data Visualization, and Machine Learning"
       }
     ],
     "work":[
@@ -94,6 +88,10 @@
       },
       {
         "name":"AngularJS",
+        "level":"40%"
+      },
+      {
+        "name":"Tableau",
         "level":"40%"
       },
       {
